@@ -1,0 +1,19 @@
+blockchain-app/
+├── backend/
+│   ├── server/
+│   │   ├── __init__.py
+│   │   ├── blockchain.py
+│   │   └── routes.py
+│   ├── requirements.txt
+│   └── run.py
+└── frontend/
+    ├── public/
+    │   └── index.html
+    ├── src/
+    │   ├── components/
+    │   │   ├── Blockchain.js
+    │   │   ├── NewTransaction.js
+    │   │   └── Mine.js
+    │   ├── App.js
+    │   └── index.js
+    └── package.json

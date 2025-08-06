@@ -1,0 +1,8 @@
+logs
+build
+dist
+*.log
+*.spec
+*.pyc
+__pycache__
+node_modules
