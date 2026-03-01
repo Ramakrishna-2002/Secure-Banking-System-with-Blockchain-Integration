@@ -1,4 +1,4 @@
-Secure Banking System with Blockchain Integration
+**Secure Banking System with Blockchain Integration**
 
 📌 Project Overview
 This project was developed as my MSc Dissertation at Technological University Dublin. It presents the design and implementation of a secure banking system that integrates blockchain technology and AES encryption to protect financial transactions and ensure data integrity.
